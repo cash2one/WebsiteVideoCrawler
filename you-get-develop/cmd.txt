@@ -1,0 +1,35 @@
+you-get -o F:\workspace\PythonVersion4\you-get-develop\download -O mytest.mp4 --json http://www.56.com/w44/play_album-aid-14393469_vid-MTQwNTc1NjAx.html
+
+
+you-get -o F:\workspace\PythonVersion4\you-get-develop\download -O mytest.mp4 https://www.youtube.com/watch?v=XoX4vySFcD4
+
+
+http://so.56.com/all/%E7%80%91%E5%B8%83/?
+
+
+you-get -o F:\workspace\PythonVersion4\you-get-develop\download http://so.56.com/all/%E7%80%91%E5%B8%83/?
+
+
+you-get -d -o F:\workspace\PythonVersion4\you-get-develop\download -O mytest5.mp4 http://www.ntdtv.com/xtr/gb/2016/06/22/a1272588.html(可下3种不同分辨率的视频)
+
+
+you-get -d -o F:\workspace\PythonVersion4\you-get-develop\download -O mytest5.mp4 http://www.voachinese.com/media/video/ramadan-minnesota-20160621/3386127.html(可下3种不同分辨率的视频)
+
+
+
+you-get -d -o F:\workspace\PythonVersion4\you-get-develop\download\new http://nextplus.nextmedia.com/play/recommend（可下载多个视频）
+
+
+
+you-get -d -o F:\workspace\PythonVersion4\you-get-develop\download\习近平时报 http://0s.or3ws5dumvzc4y3pnu.erenta.ru/XiiDaDa/media http://so.56.com/all/%E7%80%91%E5%B8%83/?
+
+
+you-get -d -o F:\workspace\PythonVersion4\you-get-develop\download\习近平时报 https://www.youtube.com/watch?v=XjrnD0uVieI https://www.youtube.com/watch?v=uKChdr5UxRQ https://www.youtube.com/watch?v=_93f9TcpaaQ
+
+
+you-get -d -o F:\workspace\PythonVersion4\you-get-develop\download -O fig1.jpg http://www.appledaily.com.tw/realtimenews/article/politics/20160622/891213/
+
+
+you-get -d -o F:\workspace\PythonVersion4\you-get-develop\download\bbc http://www.bbc.com/zhongwen/simp/multimedia/2015/06/150622_vid_dog_eating http://www.bbc.com/zhongwen/simp/multimedia/2016/06/160621_vid_eu_explainer
+
+

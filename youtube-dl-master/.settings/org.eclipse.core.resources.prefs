@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//build/lib/youtube_dl/YoutubeDL.py=utf-8
+encoding//docs/conf.py=utf-8
+encoding//youtube_dl/YoutubeDL.py=utf-8
+encoding//youtube_dl/__init__.py=utf-8
+encoding//youtube_dl/extractor/abcnews.py=utf-8
+encoding//youtube_dl/extractor/kusi.py=utf-8
+encoding//youtube_dl/extractor/youtube.py=utf-8
+encoding//youtube_dl/utils.py=utf-8
